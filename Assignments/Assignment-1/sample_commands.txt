@@ -1,0 +1,17 @@
+echo- prints out a line of text
+echo hello world prints the phrase hello world.
+echo {con,pre}{sent,fer}{s,ed} prints out the first part of the array and
+ then the later part of the array. eg: consents consented...prefered.
+
+date- gives you the date and time
+
+whoami- gives the current user id
+
+cal - will give you a specific date in a requested year
+
+In 1752, they wanted to fix the notion of leap year so it would occur
+every four years in february. In order to fix this, in 1752, they skipped
+a bunch of days in september.
+
+bc- a precise calculator program.
+ex echo 5+4 | bc -l  will print out 9  
