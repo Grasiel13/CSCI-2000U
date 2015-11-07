@@ -11,6 +11,7 @@ def count_observations(lines):
             current = 0
         else:
             current += 1
+    counts.appent(current)    
     return counts
 
 data = ['a single line\n']
@@ -21,3 +22,5 @@ assert count_observations(data) == [2], 'two lines failed'
 
 data = ['two\n', '\n', 'records\n']
 assert count_observations(data) == [1, 1], 'two records failed'
+
+reader = open
