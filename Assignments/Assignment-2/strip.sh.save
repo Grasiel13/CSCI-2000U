@@ -1,0 +1,9 @@
+#!/bin/bash
+#Sergio Majluf  ID:100558230
+
+k=$1
+m=$2
+file=#
+
+head -n -$m $file
+
