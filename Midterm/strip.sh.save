@@ -1,0 +1,7 @@
+
+!/bin/bash
+#Sergio Majluf 
+#ID:100558230
+head -n -m
+tail -n +k 
+
