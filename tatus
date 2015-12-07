@@ -1,0 +1,277 @@
+[33mcommit bea45fe2faf2874b9ac80fc463a161133716b78a[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Sat Nov 7 10:32:54 2015 -0500
+
+    Assignment 2: committing data files
+
+[33mcommit 2812164899e6813c2219e19c690765460aaf120f[m
+Merge: 4735b74 aedb217
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Mon Nov 2 10:35:59 2015 -0500
+
+    Merge https://github.com/arminms/csci-2000-class-resources
+
+[33mcommit aedb217cd0102825a4a9de21ca0cfb07147eb188[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Sun Nov 1 21:24:45 2015 -0500
+
+    checkpoint9 and checkpoint10 folders were removed
+
+[33mcommit 615a04be2956b5b23d7a35db59118b4348e02898[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Sun Nov 1 21:09:17 2015 -0500
+
+    debugging folder was added
+
+[33mcommit bc2fac2e877d0c9f40ed54c72f86e9e17abce3c2[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Sun Nov 1 21:06:59 2015 -0500
+
+    script.sh and what.txt were removed
+
+[33mcommit 1658dfaad8998e9441bed0a6e38becfcc4fcf53e[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Sun Nov 1 21:05:35 2015 -0500
+
+    wrong has_no_e.py and strip.sh were removed
+
+[33mcommit 4735b749fa46bdcb76ca97b310ff98f4e401781e[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 28 10:19:07 2015 -0400
+
+    Midterm: completed has_no_e.py (as much as possible)
+
+[33mcommit a7077d2378e0edf21033fffd80fb02287e245747[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 28 10:18:55 2015 -0400
+
+    Midterm: completed strip.sh (as much as possible)
+
+[33mcommit 72a68e6d04c549115c765d855c65cc39a5260c05[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 28 10:18:34 2015 -0400
+
+    Midterm: committing data files
+
+[33mcommit a919fc71c412f39a83a41ac68c95cbc4e0455ac5[m
+Merge: 46b8c74 2953bb9
+Author: Agilan <swagilan19@gmail.com>
+Date:   Wed Oct 28 09:51:46 2015 -0400
+
+    Merge branch 'master' of https://github.com/arminms/csci-2000-class-resources
+
+[33mcommit 46b8c74c389c36044a63aa3248c41a308e0a6320[m
+Author: Agilan <swagilan19@gmail.com>
+Date:   Wed Oct 28 09:42:47 2015 -0400
+
+    Midterm: completed has_no_e.py (as much as possible).
+
+[33mcommit 831b863a2b2d4684a367bd2f319680667a0fd3b7[m
+Author: Agilan <swagilan19@gmail.com>
+Date:   Wed Oct 28 09:21:43 2015 -0400
+
+    Midterm: completed strip.sh (as much as possible)
+
+[33mcommit 2953bb9afe28bf6762de236c1032e1962c9bf76d[m
+Author: Christien <christien2008@hotmail.com>
+Date:   Wed Oct 28 09:14:16 2015 -0400
+
+    Midterm: completed strip.sh
+
+[33mcommit a9f56a0fd1763bcb38c9858bc5bb30c13fb81fe8[m
+Author: Agilan <swagilan19@gmail.com>
+Date:   Wed Oct 28 08:53:01 2015 -0400
+
+    Midterm: committing empty script/function
+
+[33mcommit 25d8738b016f5681a9ddb6bbb01feddab5f7c9eb[m
+Author: Agilan <swagilan19@gmail.com>
+Date:   Wed Oct 28 08:52:25 2015 -0400
+
+    Midterm: committing empty script/function
+
+[33mcommit 83ec7fc1e4e87a27a8f0ecff1acc490e5d9efadc[m
+Author: Brian Jay <brian.jay1795@gmail.com>
+Date:   Wed Oct 28 01:27:39 2015 -0400
+
+    Removing the test file I pushed
+
+[33mcommit b33a302ebf7f6541eca9b642a7ed4a65cacc4254[m
+Merge: 8e12c32 4e273a9
+Author: Brian Jay <brian.jay1795@gmail.com>
+Date:   Wed Oct 28 01:26:26 2015 -0400
+
+    Merge https://github.com/arminms/csci-2000-class-resources
+
+[33mcommit 8e12c32475c36a656cbe7fbcfc73af3dd942dd13[m
+Author: Brian Jay <brian.jay1795@gmail.com>
+Date:   Wed Oct 28 01:24:56 2015 -0400
+
+    Added Hello.txt
+
+[33mcommit 4e273a970c3b7d3c3623cd2b3823cfe009c595d6[m
+Author: Nathaniel Yearwood <nathaniel.yearwood@uoit.net>
+Date:   Tue Oct 27 21:09:11 2015 -0400
+
+    Trying to push a file to git
+
+[33mcommit 10218c814c65cd29ccf534d2d4b7301494e37779[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Tue Oct 27 16:47:04 2015 -0400
+
+    more changes of the description
+
+[33mcommit 8e39271790a5d6f0847c742edc1c4853f024ab09[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Tue Oct 27 16:44:38 2015 -0400
+
+    description for the repository was changed
+
+[33mcommit de8fe3673893002031265ac8bbfae315d6e669a2[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Tue Oct 27 16:37:31 2015 -0400
+
+    last changes before actual exam
+
+[33mcommit ecd3f702cec2143f5c18ed2ab2525c12b06e76f1[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Tue Oct 27 16:36:36 2015 -0400
+
+    last minute changes
+
+[33mcommit 8edb00bce583859da498b60db98973cab85ff690[m
+Author: Armin Sobhani <arminms@gmail.com>
+Date:   Mon Oct 26 10:49:40 2015 -0400
+
+    midterm
+
+[33mcommit 0749ebb0e1beefbdfb38ef6ad10b3806b0b5477b[m
+Author: Jude Arokiam <itsjude96@gmail.com>
+Date:   Wed Oct 21 13:20:32 2015 -0400
+
+    my bad
+
+[33mcommit 645641353e238009871b138464f8d39e140269a6[m
+Author: Jude Arokiam <itsjude96@gmail.com>
+Date:   Wed Oct 21 13:01:30 2015 -0400
+
+    Tut Oct 21, 2015
+
+[33mcommit ae8b83fc825d2fb73781eb745a8cdb346f9790fa[m
+Author: Jude Arokiam <itsjude96@gmail.com>
+Date:   Mon Oct 19 10:34:17 2015 -0400
+
+    lecture update
+
+[33mcommit 7e0816c4da15f1148db2ef4990a076d7a896d434[m
+Merge: 50f4aaf 5874246
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 7 09:45:31 2015 -0400
+
+    Merge branch 'master' of https://github.com/arminms/CSCI-2000U
+
+[33mcommit 50f4aafa12348ebdbdfde9ce9178f90bf10f3771[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 7 09:43:29 2015 -0400
+
+    Added file
+
+[33mcommit 5874246f5284a7a38070c8f81565d21ba77e8a85[m
+Author: Anne Tissera <anne.tissera@uoit.net>
+Date:   Wed Oct 7 09:41:19 2015 -0400
+
+    Anne Tissera
+
+[33mcommit 58dc83c9531a4df1c6ed02bdccf57909da1e20e8[m
+Merge: e107cbb 2a4d7c5
+Author: Anne Tissera <anne.tissera@uoit.net>
+Date:   Wed Oct 7 09:39:05 2015 -0400
+
+    Anne Tissera
+
+[33mcommit e107cbb9270805a659637b3998947d2f6a9b78d7[m
+Merge: b51c5da 8d3ef5e
+Author: Anne Tissera <anne.tissera@uoit.net>
+Date:   Wed Oct 7 09:37:31 2015 -0400
+
+    Anne Tissera
+
+[33mcommit 2a4d7c5ea3ffe6f10389a2c5423acf3c1c578858[m
+Merge: 27956b5 06ce66a
+Author: Christien Soosaipillai <christien2008@hotmail.com>
+Date:   Wed Oct 7 09:35:59 2015 -0400
+
+    Christien Soosaipillai
+
+[33mcommit 27956b51ee21109141be6aff4cf39e686da9b07f[m
+Author: Christien Soosaipillai <christien2008@hotmail.com>
+Date:   Wed Oct 7 09:34:04 2015 -0400
+
+    Christien Soosaipillai
+
+[33mcommit 06ce66a2f32a38ff8f9420666799c0c48b5ed5b7[m
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:27:34 2015 -0400
+
+    First commit
+
+[33mcommit e06393583d7f63a344cce277747a2e06d7da2e19[m
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:21:54 2015 -0400
+
+    Austin Oligario
+
+[33mcommit 142abddde78e78a55cff41b72c40e753df22f71c[m
+Merge: 2f9ff0b 8d3ef5e
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:19:59 2015 -0400
+
+    Merge branch 'master' of https://github.com/arminms/CSCI-2000U
+
+[33mcommit 2f9ff0b06891b6302f953f36af9ddcc1c866eeb2[m
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:19:38 2015 -0400
+
+    Austin Oligario
+
+[33mcommit b51c5da3ffbe200ceff0b420ab4dfb60acf7cb6d[m
+Author: Anne Tissera <anne.tissera@uoit.net>
+Date:   Wed Oct 7 09:19:31 2015 -0400
+
+    Anne Tissera
+
+[33mcommit 8d3ef5ee1a34b0f43114de202e30f27ce8e385d3[m
+Merge: 9c8e32e df11ddb
+Author: Yi Guo <yi.guo@uoit.net>
+Date:   Wed Oct 7 09:17:04 2015 -0400
+
+    Merge branch 'master' of https://github.com/arminms/CSCI-2000U
+
+[33mcommit df11ddbfe313220e87405ec6e984fabd5f514fde[m
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:13:35 2015 -0400
+
+    Austin Oligario
+
+[33mcommit e085cd72dbba9b4a9e97ca0adb63f71292f338e2[m
+Author: Sergio <sergio.majlufsuarez@uoit.net>
+Date:   Wed Oct 7 09:11:45 2015 -0400
+
+    First commit
+
+[33mcommit 969c86158a3809aede53d800a4fac066d62dc96c[m
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:11:00 2015 -0400
+
+    Ausitn Oligario
+
+[33mcommit ee10b3d8e435aace84f21d6b9ec95349b6190a1a[m
+Merge: 3ca8606 42c57d8
+Author: Austin Oligario <austinoligario@gmail.com>
+Date:   Wed Oct 7 09:09:50 2015 -0400
+
+    Merge branch 'master' of https://github.com/arminms/CSCI-2000U
+
+[33mcommit 42c57d8db316cf9e533b21ca4b19bd9f5b2c173e[m
+Author: melvincheng <melvin-cheng@hotmail.com>
+Date:   W
